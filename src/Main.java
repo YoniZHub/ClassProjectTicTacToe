@@ -13,7 +13,7 @@ public class Main {
 
 
         //take each turn
-        while (turns < 9){
+        while (turns < 8){
 
         }
     }
